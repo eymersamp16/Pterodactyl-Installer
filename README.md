@@ -6,15 +6,15 @@ Tenga en cuenta que este script está diseñado para funcionar en una instalaci�
 
 Si encuentra algún error, cosas que le gustaría cambiar o consultas sobre cosas en el futuro para este script, escriba un "Problema". Lea sobre el pterodáctilo aquí. Este script no está asociado con el Proyecto Pterodactyl oficial.
 
-# Features
-This script is one of the only ones that has a well-functioning Switch Domains feature.
+# Características
+Este script es uno de los únicos que tiene una función de cambio de dominios que funciona bien.
 
-- Install Panel
-- Install Wings
-- Install PHPMyAdmin
-- Switch Pterodactyl Domains
-- Uninstall Panel
-- Uninstall Wings
+- Panel de instalación
+- instalar alas
+- Instalar PHPMyAdmin
+- Cambiar dominios de pterodáctilo
+- Panel de desinstalación
+- Desinstalar alas
 
 # Supported OS & Webserver
 Supported operating systems.
