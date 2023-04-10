@@ -1,13 +1,10 @@
 # Pterodactyl Installer
 
-With this script you can easily install, update or delete Pterodactyl Panel. Everything is gathered in one script.
-Use this script if you want to install, update or delete your services quickly. The things that are being done are already listed on [Pterodactyl](https://pterodactyl.io/), but this clearly makes it faster since it is automatic.
+Con este script puede instalar, actualizar o eliminar fácilmente Pterodactyl Panel. Todo está reunido en un guión. Utilice este script si desea instalar, actualizar o eliminar sus servicios rápidamente. Las cosas que se están haciendo ya están listadas en Pterodactyl , pero esto claramente lo hace más rápido ya que es automático.
 
-Please note that this script is made to work on a fresh installation. There is a good chance that it will fail if it is not a fresh installation.
-The script must be run as root.
+Tenga en cuenta que este script está diseñado para funcionar en una instalación nueva. Existe una buena posibilidad de que falle si no es una instalación nueva. El script debe ejecutarse como root.
 
-If you find any errors, things you would like changed or queries for things in the future for this script, please write an "Issue".
-Read about [Pterodactyl](https://pterodactyl.io/) here. This script is not associated with the official Pterodactyl Project.
+Si encuentra algún error, cosas que le gustaría cambiar o consultas sobre cosas en el futuro para este script, escriba un "Problema". Lea sobre el pterodáctilo aquí. Este script no está asociado con el Proyecto Pterodactyl oficial.
 
 # Features
 This script is one of the only ones that has a well-functioning Switch Domains feature.
