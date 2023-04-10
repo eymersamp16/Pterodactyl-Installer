@@ -33,16 +33,13 @@ Sistemas operativos compatibles.
 | LiteSpeed        | :x:                 |
 | Caddy            | :x:                 |
 
-# Copyright
-Please do not say you created this script. You may create a fork for this Pterodactyl-Installer, but I would appreciate this github being linked to.
-Also, please not remove my copyright at the top of the Pterodactyl-Installer script.
+# Derechos de autor
+Por favor, no digas que creaste este script. Puede crear una bifurcación para este Pterodactyl-Installer, pero agradecería que se vinculara este github. Además, no elimine mis derechos de autor en la parte superior del script Pterodactyl-Installer.
 
-# Support
-No support is offered for this script.
-The script has been tested many times without any bug fixes, however they can still occur.
-If you find errors, feel free to open an "Issue" on GitHub.
+# Apoyo
+No se ofrece soporte para este script. El script se probó muchas veces sin corregir errores, sin embargo, aún pueden ocurrir. Si encuentra errores, no dude en abrir un "Problema" en GitHub.
 
-# Interactive/Normal installation
+# Instalación Interactiva/Normal
 The recommended way to use this script.
 Debian based systems only.
 ```bash
@@ -50,7 +47,7 @@ bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/
 ```
 
 ### Raspbian
-Only for raspbian users. They might need a extra < in the beginning.
+La forma recomendada de usar este script. Solo sistemas basados ​​en Debian.
 ```bash
 bash < <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
 ```
