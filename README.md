@@ -40,21 +40,20 @@ Por favor, no digas que creaste este script. Puede crear una bifurcación para e
 No se ofrece soporte para este script. El script se probó muchas veces sin corregir errores, sin embargo, aún pueden ocurrir. Si encuentra errores, no dude en abrir un "Problema" en GitHub.
 
 # Instalación Interactiva/Normal
-The recommended way to use this script.
-Debian based systems only.
+La forma recomendada de usar este script. Solo sistemas basados en Debian.
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
 ```
 
 ### Raspbian
-La forma recomendada de usar este script. Solo sistemas basados ​​en Debian.
+Solo para usuarios de raspbian. Es posible que necesiten un < extra al principio.
 ```bash
 bash < <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
 ```
 
-# Autoinstall / Developer Installation
-Only use this if you know what you are doing!
-You can now install Pterodactyl using 1 command without having to manually type anything after running the command.
+# Instalación automática / Instalación del desarrollador
+¡Úsalo solo si sabes lo que estás haciendo! Ahora puede instalar Pterodactyl usando 1 comando sin tener que escribir nada manualmente después de ejecutar el comando.
+
 
 ```
 <fqdn> = What you want to access your panel with. Eg. panel.domain.ltd
@@ -67,8 +66,8 @@ You can now install Pterodactyl using 1 command without having to manually type 
 <wings> = Whether you want to have Wings installed automatically as well. Options are true or false.
 ```
 
-You must be precise when using this script. 1 typo and everything can go wrong.
-It also needs to be run on a fresh version of Ubuntu or Debian.
+Debe ser preciso al usar este script. 1 error tipográfico y todo puede salir mal. También debe ejecutarse en una versión nueva de Ubuntu o Debian.
+
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/autoinstall.sh)  <fqdn> <ssl> <email> <username> <firstname <lastname> <password> <wings>
