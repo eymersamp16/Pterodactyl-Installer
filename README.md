@@ -19,14 +19,14 @@ Este script es uno de los únicos que tiene una función de cambio de dominios q
 # Sistema operativo y servidor web compatibles
 Sistemas operativos compatibles.
 
-| Operating System | Version               | Supported                          |
+| Sistema operativo| Versión               | Soportado                          |
 | ---------------- | ----------------------| ---------------------------------- |
 | Ubuntu           | from 18.04 to 22.04   | :white_check_mark:                 |
 | Debian           | from 10 to 11         | :white_check_mark:                 |
 | CentOS           | no supported versions | :x:                                |
 | Rocky Linux      | no supported versions | :x:                                |
 
-| Webserver        | Supported           |
+| Servidor web	   | Soportado           |
 | ---------------- | --------------------| 
 | NGINX            | :white_check_mark:  |
 | Apache           | :white_check_mark:  |
